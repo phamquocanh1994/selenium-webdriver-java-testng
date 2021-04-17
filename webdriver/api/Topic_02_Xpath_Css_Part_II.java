@@ -24,6 +24,7 @@ public class Topic_02_Xpath_Css_Part_II {
   
   @Test
   public void TC_02_Class() {
+	  driver.navigate().refresh();
 	  
   }
   @Test
